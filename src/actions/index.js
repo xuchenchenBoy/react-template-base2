@@ -1,0 +1,1 @@
+export const SET_VIEW_CONFIG = 'SET_VIEW_CONFIG'
